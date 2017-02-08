@@ -1,0 +1,25 @@
+http://192.168.55.20:9869
+
+tar -czf gstore.tar.gz gstore
+tar xzf
+
+curl -H 'Authorization: token 84d37c434950e7e54339057e93af72de79728ba7' -L https://api.github.com/repos/GraphSQL/gium/tarball/4.4 -o 20161017-172016_gium.tar.gz
+
+sudo service redis_6379 stop
+
+umount -l /dev/xvdb
+umount -f /home/graphsql
+
+
+http://192.168.55.20:9869/
+https://192.168.11.10:5001
+
+curl -H 'Authorization: token ff07fe13496a7bcc1af1a44e2395d504b85e018f' -L https://api.github.com/repos/GraphSQL/glive  
+
+
+05562018440076e835629e808acde81c7e7caa0d
+
+sudo kextunload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/AppleUSBTCKeyboard.kext
+
+
+sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/AppleUSBTCKeyboard.kext
